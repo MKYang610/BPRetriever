@@ -3,12 +3,19 @@ prgiect of BPRetriever
 请文明检索,按照实际需求量下载
 
 ###########################
+
 该项目整合了之前网上大神的代码，并进行了修改，包括
+
 wos爬虫：https://github.com/tomleung1996/wos_crawler
+
 Entrez检索: https://www.cnblogs.com/xiaolan-Lin/p/14030607.html
+
 Scihub下载: https://www.bilibili.com/video/av375139410/
+
 还有另外还有一些代码也进行了参考，但一时想不起来或找不到，就不一一列出。
+
 BPRetriever.py是主程序脚本
+
 基本的包需要自己安装。
 ###########################
 
