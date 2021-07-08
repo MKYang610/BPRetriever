@@ -1,4 +1,4 @@
-# Prgiect of Batch Paper Retriever
+# Project of Batch Paper Retriever
 请文明检索,按照实际需求量下载
 ## 简要说明
 1. 编译版exe在release里面（页面右边→），解压压缩包，双击里面的exe文件即可运行。<br>
